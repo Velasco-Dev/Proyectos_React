@@ -21,12 +21,12 @@ npx create-next-app@latest
 
 - Primero escogemos el nombre del proyecto.
 - Escogemos si deseamos usar Ts o Js.
-- Para escoger entre ESLint, lo vamos a definir: ESLint es un proyecto de código abierto que lo ayuda a encontrar y solucionar problemas con su código JavaScript. No importa si está escribiendo JavaScript en el navegador o en el servidor, con o sin framework, ESLint puede ayudar su código viva su mejor vida.
-- Para escoger Tailwind CSS, lo vamos a definir: Tailwind CSS es un framework CSS "utility-first" que permite a los desarrolladores construir interfaces de usuario personalizadas directamente en el HTML, utilizando clases predefinidas para estilos. (Ejm: text-center, p-4, bg-blue-500).
+- Para escoger entre ESLint, lo vamos a definir: **ESLint** es un proyecto de código abierto que lo ayuda a encontrar y solucionar problemas con su código JavaScript. No importa si está escribiendo JavaScript en el navegador o en el servidor, con o sin framework, ESLint puede ayudar su código viva su mejor vida.
+- Para escoger Tailwind CSS, lo vamos a definir: **Tailwind CSS** es un framework CSS "utility-first" que permite a los desarrolladores construir interfaces de usuario personalizadas directamente en el HTML, utilizando clases predefinidas para estilos. (Ejm: text-center, p-4, bg-blue-500).
 - Escogemos que la app se cree dentro del directorio src.
 - Escogemos el proyecto tenga el enrutamiento que incluye el framework. 
-- Para escoger Turbopack, lo vamos a definir: Turbopack es un empaquetador incremental, desarrollado por Vercel y escrito en Rust, que está integrado en Next.js para mejorar la velocidad de desarrollo y las compilaciones locales, especialmente para aplicaciones grandes. Es un sucesor espiritual de Webpack y se enfoca en ser más rápido en el modo de desarrollo, ofreciendo inicios de servidor más rápidos y actualizaciones de código más rápidas con Fast Refresh. 
-- En Next.js, un alias de importación permite crear atajos para rutas de importación, haciendo que el código sea más limpio y fácil de mantener, especialmente en proyectos grandes. En lugar de usar rutas relativas largas y complejas, puedes definir alias que apuntan a carpetas o archivos específicos dentro de tu proyecto. 
+- Para escoger Turbopack, lo vamos a definir: **Turbopack** es un empaquetador incremental, desarrollado por Vercel y escrito en Rust, que está integrado en Next.js para mejorar la velocidad de desarrollo y las compilaciones locales, especialmente para aplicaciones grandes. Es un sucesor espiritual de Webpack y se enfoca en ser más rápido en el modo de desarrollo, ofreciendo inicios de servidor más rápidos y actualizaciones de código más rápidas con Fast Refresh. 
+- En Next.js, un alias de importación **(import alias)** permite crear atajos para rutas de importación, haciendo que el código sea más limpio y fácil de mantener, especialmente en proyectos grandes. En lugar de usar rutas relativas largas y complejas, puedes definir alias que apuntan a carpetas o archivos específicos dentro de tu proyecto. 
 
 ![Ejemplo de Alias](assets/images/2.png "Ejemplo de Alias")
 
